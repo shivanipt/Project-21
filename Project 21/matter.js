@@ -1,5 +1,3 @@
-Matter.Bodies.circle(x, y, radius, [options], [maxSides])
-Matter.Body.applyForce(body, position, force)
 
 /**
 * matter-js 0.12.0 by @liabru 2017-02-02
