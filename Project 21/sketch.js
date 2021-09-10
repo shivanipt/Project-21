@@ -50,7 +50,7 @@ function draw() {
 
   background(0);
 
-  ellipse();
+  ellipse(ball.position.x,ball.position.y,radius,radius);
 
   groundObj.display();
   leftSide.display();
